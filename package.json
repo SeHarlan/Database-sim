@@ -1,0 +1,24 @@
+{
+  "name": "database-sim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "npm run test -- --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeHarlan/Database-sim.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeHarlan/Database-sim/issues"
+  },
+  "homepage": "https://github.com/SeHarlan/Database-sim#readme",
+  "devDependencies": {
+    "@types/jest": "^25.1.4",
+    "jest": "^25.1.0"
+  }
+}
