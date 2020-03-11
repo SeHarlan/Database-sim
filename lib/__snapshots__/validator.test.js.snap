@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Class Validator Test throws if value is not castable 1`] = `"Missing required field >>name<<"`;
+
+exports[`Class Validator Test throws if value is not castable 2`] = `"Missing required field >>age<<"`;
