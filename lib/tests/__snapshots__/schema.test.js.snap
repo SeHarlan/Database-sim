@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`schema validation throws error for invalid input 1`] = `"Invalid Schema input::: name: Error: Missing required field >>name<<,age: Error: Cannot cast >>hi<< to Number"`;
