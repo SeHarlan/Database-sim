@@ -1,29 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1583973843035" clover="3.2.0">
-  <project timestamp="1583973843035" name="All files">
-    <metrics statements="20" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="16" coveredmethods="11" elements="36" coveredelements="26" complexity="0" loc="20" ncloc="20" packages="1" files="1" classes="1"/>
+<coverage generated="1584057282617" clover="3.2.0">
+  <project timestamp="1584057282617" name="All files">
+    <metrics statements="35" coveredstatements="30" conditionals="0" coveredconditionals="0" methods="23" coveredmethods="18" elements="58" coveredelements="48" complexity="0" loc="35" ncloc="35" packages="1" files="2" classes="2"/>
     <file name="file-system.js" path="C:\Users\sehar\alchemy\career-track-one\Database-sim\lib\file-system.js">
-      <metrics statements="20" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="16" coveredmethods="11"/>
-      <line num="1" count="1" type="stmt"/>
-      <line num="4" count="4" type="stmt"/>
-      <line num="5" count="4" type="stmt"/>
+      <metrics statements="22" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="17" coveredmethods="12"/>
+      <line num="1" count="2" type="stmt"/>
+      <line num="4" count="20" type="stmt"/>
+      <line num="5" count="16" type="stmt"/>
       <line num="6" count="0" type="stmt"/>
-      <line num="9" count="2" type="stmt"/>
-      <line num="10" count="2" type="stmt"/>
-      <line num="11" count="2" type="stmt"/>
+      <line num="9" count="8" type="stmt"/>
+      <line num="10" count="8" type="stmt"/>
+      <line num="11" count="8" type="stmt"/>
       <line num="12" count="0" type="stmt"/>
-      <line num="15" count="1" type="stmt"/>
-      <line num="17" count="1" type="stmt"/>
-      <line num="18" count="2" type="stmt"/>
+      <line num="15" count="3" type="stmt"/>
+      <line num="17" count="3" type="stmt"/>
+      <line num="18" count="10" type="stmt"/>
       <line num="21" count="0" type="stmt"/>
-      <line num="24" count="1" type="stmt"/>
+      <line num="24" count="2" type="stmt"/>
       <line num="25" count="0" type="stmt"/>
-      <line num="28" count="1" type="stmt"/>
-      <line num="29" count="0" type="stmt"/>
+      <line num="28" count="6" type="stmt"/>
+      <line num="30" count="2" type="stmt"/>
+      <line num="31" count="2" type="stmt"/>
+      <line num="33" count="0" type="stmt"/>
+      <line num="37" count="2" type="stmt"/>
+      <line num="39" count="2" type="stmt"/>
+      <line num="40" count="2" type="stmt"/>
+      <line num="45" count="2" type="stmt"/>
+    </file>
+    <file name="model.js" path="C:\Users\sehar\alchemy\career-track-one\Database-sim\lib\model.js">
+      <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="19" count="5" type="stmt"/>
+      <line num="20" count="5" type="stmt"/>
+      <line num="21" count="5" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
       <line num="33" count="1" type="stmt"/>
-      <line num="35" count="1" type="stmt"/>
-      <line num="36" count="1" type="stmt"/>
-      <line num="41" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
