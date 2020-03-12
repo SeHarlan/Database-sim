@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1583971948508" clover="3.2.0">
-  <project timestamp="1583971948508" name="All files">
-    <metrics statements="33" coveredstatements="24" conditionals="0" coveredconditionals="0" methods="17" coveredmethods="12" elements="50" coveredelements="36" complexity="0" loc="33" ncloc="33" packages="1" files="1" classes="1"/>
+<coverage generated="1583973843035" clover="3.2.0">
+  <project timestamp="1583973843035" name="All files">
+    <metrics statements="20" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="16" coveredmethods="11" elements="36" coveredelements="26" complexity="0" loc="20" ncloc="20" packages="1" files="1" classes="1"/>
     <file name="file-system.js" path="C:\Users\sehar\alchemy\career-track-one\Database-sim\lib\file-system.js">
-      <metrics statements="33" coveredstatements="24" conditionals="0" coveredconditionals="0" methods="17" coveredmethods="12"/>
+      <metrics statements="20" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="16" coveredmethods="11"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="4" count="7" type="stmt"/>
-      <line num="5" count="7" type="stmt"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="5" count="4" type="stmt"/>
       <line num="6" count="0" type="stmt"/>
-      <line num="9" count="5" type="stmt"/>
-      <line num="10" count="5" type="stmt"/>
-      <line num="11" count="5" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
       <line num="12" count="0" type="stmt"/>
-      <line num="15" count="2" type="stmt"/>
-      <line num="17" count="2" type="stmt"/>
-      <line num="18" count="4" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="18" count="2" type="stmt"/>
       <line num="21" count="0" type="stmt"/>
-      <line num="24" count="2" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
       <line num="25" count="0" type="stmt"/>
       <line num="28" count="1" type="stmt"/>
       <line num="29" count="0" type="stmt"/>
@@ -24,19 +24,6 @@
       <line num="35" count="1" type="stmt"/>
       <line num="36" count="1" type="stmt"/>
       <line num="41" count="1" type="stmt"/>
-      <line num="55" count="1" type="stmt"/>
-      <line num="58" count="1" type="stmt"/>
-      <line num="65" count="1" type="stmt"/>
-      <line num="78" count="1" type="stmt"/>
-      <line num="81" count="1" type="stmt"/>
-      <line num="83" count="1" type="stmt"/>
-      <line num="86" count="1" type="stmt"/>
-      <line num="88" count="1" type="stmt"/>
-      <line num="93" count="0" type="stmt"/>
-      <line num="97" count="0" type="stmt"/>
-      <line num="100" count="0" type="stmt"/>
-      <line num="103" count="0" type="stmt"/>
-      <line num="106" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
